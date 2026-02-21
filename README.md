@@ -50,6 +50,6 @@ Stock price data uploaded in CSV format.
 
 ---
 
-## 🚀 Conclusion
+##  Conclusion
 This dashboard helps understand stock performance,
 risk measurement, and investment analysis.
