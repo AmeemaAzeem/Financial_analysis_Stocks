@@ -16,7 +16,9 @@ Stock price data uploaded in CSV format.
 - Pandas
 - Matplotlib
 - Google Colab
-
+- Python (Pandas, NumPy)
+- Google Colab
+- Tableau Public
 ---
 
 ##  Key Metrics Calculated
@@ -30,26 +32,30 @@ Stock price data uploaded in CSV format.
 - Risk vs Return
 
 ---
+#  Portfolio Optimization & Risk Analysis
 
-##  Visualizations
+## Interactive Dashboard
+ View Live Dashboard:
+https://public.tableau.com/app/profile/ameema.azeem/viz/marketandperformanceanalysis/marketandperformanceanalysis?publish=yes
 
-### Price Trend
-![Price Trend](price_trend.png)
-
-### Moving Averages
-![Moving Averages](moving_averages.png)
-
-### Return Distribution
-![Return Distribution](return_distribution.png)
-
-### Risk vs Return
-![Risk vs Return](risk_vs_return.png)
-
-### Drawdown
-![Drawdown](drawdown.png)
+https://public.tableau.com/app/profile/ameema.azeem/viz/portfoliooptimizationandriskanalysis/portfoliooptimizationandriskanalysis?publish=yes
 
 ---
 
-##  Conclusion
-This dashboard helps understand stock performance,
-risk measurement, and investment analysis.
+## Project Summary
+This project performs portfolio optimization using Modern Portfolio Theory. 
+
+It includes:
+- Stock performance analysis
+- Risk vs Return (Efficient Frontier)
+- Sharpe Ratio maximization
+- Optimal portfolio allocation visualization
+
+---
+
+
+1- Tableau Public
+ - This dashboard helps understand stock performance,
+- risk measurement, and investment analysis.
+- Sharpe Ratio maximization
+- Optimal portfolio allocation visualization
